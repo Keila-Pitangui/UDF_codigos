@@ -12,7 +12,7 @@
 int main (){
 
 imposto = 0.05;
-contador =
+contador = 1;
 resp1 = 0;
 banana = 2.50;
 uva = 6.5;
